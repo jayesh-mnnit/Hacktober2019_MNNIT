@@ -1,5 +1,6 @@
 #include <stdio.h>
-it min()
+int main()
 {
-    printf("welcome to github"
+    printf("welcome to github");
+    return 0;
 }
